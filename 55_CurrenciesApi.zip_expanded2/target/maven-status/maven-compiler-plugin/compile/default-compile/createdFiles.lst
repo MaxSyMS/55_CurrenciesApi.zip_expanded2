@@ -1,0 +1,4 @@
+telran\currency\dto\CurrencyRates.class
+telran\currency\dto\RequestDTO$RequestDTOBuilder.class
+telran\currency\dto\RequestDTO.class
+telran\currency\api\CalculatorApiConstants.class
